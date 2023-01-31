@@ -2,6 +2,7 @@
 // this is the main entry point for the chat widget
 // this file is responsible for creating the chat widget and
 // loading the chat widget into the DOM
+alert("spot chat test");
 let isWidgetOpen = false;
 const body = document.querySelector('body');
 const mainContainer = document.createElement('div');
